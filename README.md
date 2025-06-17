@@ -1,6 +1,2 @@
 # vendas_wa
-Sei lá
-num sei
-é
-sim
-brabo
+aqui tem todas as informações do projeto
